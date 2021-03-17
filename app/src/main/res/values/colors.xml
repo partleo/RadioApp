@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F7BC13</color>
+    <color name="colorPrimaryDark">#b78906</color>
+    <color name="colorAccent">#F7BC13</color>
+
+
+    <color name="colorWhite">#EAEAEA</color>
+
+    <color name="colorTabTextColor">@color/colorPrimaryDark</color>
+    <color name="colorTabSelectedTextColor">@color/colorWhite</color>
+
+    <color name="colorBackground">#333333</color>
+
+    <color name="colorBackgroundStart">#111111</color>
+    <color name="colorBackgroundCenter">#776655</color>
+    <color name="colorBackgroundEnd">#111111</color>
+
+    <color name="colorClicked">#CDCDCD</color>
+
+    <color name="colorSilverStart">#C0C0C0</color>
+    <color name="colorSilverCenter">#666666</color>
+    <color name="colorSilverEnd">#959595</color>
+
+    <color name="colorStroke">#BABABA</color>
+
+    <color name="colorShadow">#11111111</color>
+
+    <color name="colorTransparent">#00000000</color>
+
+</resources>

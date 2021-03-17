@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RadioApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="menu">Paikalliskanavat</string>
+
+    <string name="finland">Suomi</string>
+    <string name="sweden">Ruotsi</string>
+    <string name="usa">Yhdysvallat</string>
+    <string name="uk">Iso-Britannia</string>
+    <string name="russia">Venäjä</string>
+    <string name="estonia">Viro</string>
+
+    <string name="favourites">Suosikit</string>
+    <string name="channels">Kanavat</string>
+
+    <string name="settings">Asetukset</string>
+    <string name="automatic_display">Toista viimeisin kanava avattaessa</string>
+    <string name="show_play_button">Näytä play-painike</string>
+    <string name="show_audio_visualizer">Näytä ääniraita</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+
+    <string name="add_to_favourites">Lisää suosikkeihin?</string>
+    <string name="remove_from_favourites">Poista suosikeista?</string>
+    <string name="add">Lisää</string>
+    <string name="remove">Poista</string>
+    <string name="cancel">Peruuta</string>
+
+    <string name="added_to_favourites">Lisätty suosikkeihin</string>
+    <string name="already_added_to_favourites">Olet jo lisännyt kanavan suosikkeihin</string>
+    <string name="removed_from_favourites">Poistettu suosikeista</string>
+
+</resources>
